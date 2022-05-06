@@ -19,7 +19,7 @@ The modem was designed for use with the Digicom Packet Radio Terminal Program, w
 Reviews - Commodore Power/Play - Jul/Aug 1985 (https://archive.org/details/commodore-power-play-1985-07/page/n17). 1985-07.
 External links Digicom Packet Radio with AM7910 Modem (https://www.c64-wiki.com/wiki/Digicom_Packet_Radio_with_AM7910_Modem) at C64 Wiki
 
-### tec-1 MINT + AM7910
+### Tec-1 MINT + AM7910
 tba
 
 
